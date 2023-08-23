@@ -1,0 +1,4 @@
+python 3.11
+django 4.2.3
+pip 23.1.2
+gunicorn
